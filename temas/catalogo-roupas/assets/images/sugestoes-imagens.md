@@ -83,7 +83,7 @@ Clique no link acima para buscar imagens gratuitas relacionadas ao tema "Catálo
 
 ### 5. Burst by Shopify
 
-[![Burst by Shopify](https://img.shields.io/badge/Burst by Shopify-Buscar%20Imagens-blue)](https://burst.shopify.com/photos/search?q=fashion)
+[![Burst by Shopify](https://img.shields.io/badge/Burst%20by%20Shopify-Buscar%20Imagens-blue)](https://burst.shopify.com/photos/search?q=fashion)
 
 **🔍 Link de Busca:** [Burst by Shopify - Buscar "fashion"](https://burst.shopify.com/photos/search?q=fashion)
 

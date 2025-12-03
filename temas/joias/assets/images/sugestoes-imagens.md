@@ -83,7 +83,7 @@ Clique no link acima para buscar imagens gratuitas relacionadas ao tema "Joalher
 
 ### 5. Burst by Shopify
 
-[![Burst by Shopify](https://img.shields.io/badge/Burst by Shopify-Buscar%20Imagens-blue)](https://burst.shopify.com/photos/search?q=jewelry)
+[![Burst by Shopify](https://img.shields.io/badge/Burst%20by%20Shopify-Buscar%20Imagens-blue)](https://burst.shopify.com/photos/search?q=jewelry)
 
 **🔍 Link de Busca:** [Burst by Shopify - Buscar "jewelry"](https://burst.shopify.com/photos/search?q=jewelry)
 

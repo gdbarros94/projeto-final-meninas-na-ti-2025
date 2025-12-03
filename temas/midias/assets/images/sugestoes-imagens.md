@@ -83,7 +83,7 @@ Clique no link acima para buscar imagens gratuitas relacionadas ao tema "Mídias
 
 ### 5. Burst by Shopify
 
-[![Burst by Shopify](https://img.shields.io/badge/Burst by Shopify-Buscar%20Imagens-blue)](https://burst.shopify.com/photos/search?q=entertainment)
+[![Burst by Shopify](https://img.shields.io/badge/Burst%20by%20Shopify-Buscar%20Imagens-blue)](https://burst.shopify.com/photos/search?q=entertainment)
 
 **🔍 Link de Busca:** [Burst by Shopify - Buscar "entertainment"](https://burst.shopify.com/photos/search?q=entertainment)
 

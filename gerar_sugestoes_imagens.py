@@ -14,23 +14,13 @@ Bancos de imagens suportados:
 """
 
 import os
-import json
-import requests
 from pathlib import Path
 from typing import List, Dict
 import time
+from urllib.parse import quote
 
 # Configurações
 TEMAS_DIR = Path("temas")
-UNSPLASH_API_URL = "https://api.unsplash.com/search/photos"
-PEXELS_API_URL = "https://api.pexels.com/v1/search"
-PIXABAY_API_URL = "https://pixabay.com/api/"
-
-# Chaves de API (usar variáveis de ambiente para produção)
-# Para este projeto educacional, usaremos as APIs públicas sem chave quando possível
-UNSPLASH_ACCESS_KEY = os.getenv("UNSPLASH_ACCESS_KEY", "")
-PEXELS_API_KEY = os.getenv("PEXELS_API_KEY", "")
-PIXABAY_API_KEY = os.getenv("PIXABAY_API_KEY", "")
 
 # Mapeamento de nomes de temas para palavras-chave em inglês (melhor para busca)
 TEMA_KEYWORDS = {
@@ -214,10 +204,12 @@ Você pode baixar estas imagens ou buscar outras similares usando as palavras-ch
         source = image["source"]
         source_url = image["source_url"]
         search_url = image.get("search_url", source_url)
+        # URL encode the source name for the badge
+        source_encoded = quote(source)
         
         content += f"""### {i}. {source}
 
-[![{source}](https://img.shields.io/badge/{source}-Buscar%20Imagens-blue)]({search_url})
+[![{source}](https://img.shields.io/badge/{source_encoded}-Buscar%20Imagens-blue)]({search_url})
 
 **🔍 Link de Busca:** [{source} - Buscar "{keyword}"]({search_url})
 
@@ -271,10 +263,10 @@ Sempre verifique os **termos de uso** de cada imagem. A maioria dos bancos gratu
 
 ---
 
-**Última atualização:** """ + time.strftime("%d/%m/%Y") + """
+**Última atualização:** {current_date}
 """
     
-    return content
+    return content.format(current_date=time.strftime("%d/%m/%Y"))
 
 
 def process_theme(theme_path: Path) -> bool:

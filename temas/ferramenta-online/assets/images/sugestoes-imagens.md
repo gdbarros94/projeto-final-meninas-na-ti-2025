@@ -83,7 +83,7 @@ Clique no link acima para buscar imagens gratuitas relacionadas ao tema "Ferrame
 
 ### 5. Burst by Shopify
 
-[![Burst by Shopify](https://img.shields.io/badge/Burst by Shopify-Buscar%20Imagens-blue)](https://burst.shopify.com/photos/search?q=digital)
+[![Burst by Shopify](https://img.shields.io/badge/Burst%20by%20Shopify-Buscar%20Imagens-blue)](https://burst.shopify.com/photos/search?q=digital)
 
 **🔍 Link de Busca:** [Burst by Shopify - Buscar "digital"](https://burst.shopify.com/photos/search?q=digital)
 
