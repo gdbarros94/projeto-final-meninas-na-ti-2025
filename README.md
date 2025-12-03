@@ -72,16 +72,30 @@ tema-exemplo/
 
 ## 🚀 Como Começar
 
-### 1️⃣ **Clone o Repositório**
+### 1️⃣ **Faça um Fork do Repositório**
 
-Primeiro, baixe o projeto para seu computador:
+⚠️ **IMPORTANTE:** Você deve fazer um **fork** deste repositório para trabalhar em sua própria cópia!
+
+**O que é um fork?**
+Um fork é uma cópia do repositório na sua conta do GitHub onde você pode fazer suas alterações.
+
+**Como fazer:**
+1. Acesse: https://github.com/gdbarros94/projeto-final-meninas-na-ti-2025
+2. Clique no botão **"Fork"** no canto superior direito
+3. O GitHub criará uma cópia do repositório na sua conta
+
+### 2️⃣ **Clone SEU Fork**
+
+Agora, baixe **seu fork** (não o repositório original) para seu computador:
 
 ```bash
-git clone https://github.com/gdbarros94/projeto-final-meninas-na-ti-2025.git
+git clone https://github.com/SEU-USUARIO/projeto-final-meninas-na-ti-2025.git
 cd projeto-final-meninas-na-ti-2025
 ```
 
-### 2️⃣ **Escolha um Tema**
+⚠️ **Atenção:** Substitua `SEU-USUARIO` pelo seu nome de usuário do GitHub!
+
+### 3️⃣ **Escolha um Tema**
 
 Navegue até a pasta `/temas/` e escolha o tema que mais combina com você:
 
@@ -98,7 +112,7 @@ Navegue até a pasta `/temas/` e escolha o tema que mais combina com você:
 | 🛠️ **ferramenta-online** | Gerador/calculadora | Quem gosta de desafios |
 | 🤝 **projeto-social** | ONG ou ação social | Quem quer fazer diferença |
 
-### 3️⃣ **Configure Seu Ambiente**
+### 4️⃣ **Configure Seu Ambiente**
 
 Você vai precisar de:
 
@@ -108,7 +122,7 @@ Você vai precisar de:
   - Live Server (para visualizar site em tempo real)
   - Prettier (formatação de código)
 
-### 4️⃣ **Copie o Template Base**
+### 5️⃣ **Copie o Template Base**
 
 Copie os arquivos do `template-base` para a pasta do seu tema escolhido:
 
@@ -122,7 +136,7 @@ Ou faça manualmente:
 2. Copie todos os arquivos (index.html, style.css, script.js, data.json)
 3. Cole na pasta do seu tema
 
-### 5️⃣ **Personalize Seu Projeto**
+### 6️⃣ **Personalize Seu Projeto**
 
 Siga as instruções específicas do tema:
 
@@ -132,7 +146,7 @@ Siga as instruções específicas do tema:
 4. Adicione suas imagens na pasta `assets/images/`
 5. Personalize o `data.json` com seus dados
 
-### 6️⃣ **Teste no Navegador**
+### 7️⃣ **Teste no Navegador**
 
 Para visualizar seu site:
 
@@ -324,25 +338,53 @@ Seu projeto **DEVE** conter os seguintes requisitos:
 
 ## 📬 Como Enviar a Entrega
 
-### Opção 1: Envio de Pasta Compactada
+### ⭐ **Método de Avaliação Principal: Fork no GitHub**
+
+✅ **Seu projeto será avaliado através do fork que você criou!**
+
+O professor irá:
+1. Acessar o repositório original
+2. Visualizar todos os forks criados pelas alunas
+3. Avaliar seu trabalho diretamente no seu fork
+
+**O que você precisa fazer:**
+1. Trabalhe no fork que você criou (seguindo os passos da seção "Como Começar")
+2. Faça commits das suas alterações regularmente:
+   ```bash
+   git add .
+   git commit -m "Descrição das mudanças"
+   git push origin main
+   ```
+3. Certifique-se de que todas as suas alterações foram enviadas (push) para o GitHub
+4. Pronto! O professor já poderá ver e avaliar seu trabalho
+
+⚠️ **Importante:** 
+- Mantenha seu fork **público** para que o professor possa acessá-lo
+- Faça o push de todas as suas alterações antes da data de entrega
+- O professor verá a lista de forks automaticamente no GitHub
+
+---
+
+### Opções Complementares (Opcional)
+
+#### Opção Extra 1: GitHub Pages (Publicar Online)
+Se quiser colocar seu site no ar para mostrar para outras pessoas:
+1. No seu fork, vá em Settings > Pages
+2. Selecione branch main > Save
+3. Seu site estará em: `https://seu-usuario.github.io/projeto-final-meninas-na-ti-2025/`
+
+#### Opção Extra 2: Netlify (Publicação Alternativa)
+1. Acesse [Netlify](https://www.netlify.com/)
+2. Conecte com seu repositório GitHub
+3. Pronto! Seu site está no ar
+4. Copie o link para compartilhar
+
+#### Opção Extra 3: Envio de Pasta Compactada
+Se houver algum problema com o GitHub:
 1. Exclua arquivos desnecessários (node_modules, .git, etc)
 2. Compacte apenas a pasta do seu tema
 3. Nomeie: `projeto-final-[SEU-NOME]-[TEMA].zip`
-4. Envie conforme instruções da professora
-
-### Opção 2: GitHub Pages (Publicar Online)
-1. Crie uma conta no [GitHub](https://github.com/)
-2. Crie um novo repositório público
-3. Faça upload dos seus arquivos
-4. Vá em Settings > Pages
-5. Selecione branch main > Save
-6. Seu site estará em: `https://seu-usuario.github.io/seu-repositorio/`
-
-### Opção 3: Netlify (Mais Fácil)
-1. Acesse [Netlify](https://www.netlify.com/)
-2. Arraste a pasta do projeto para o site
-3. Pronto! Seu site está no ar
-4. Copie o link e envie
+4. Envie conforme instruções adicionais do professor
 
 ---
 
@@ -357,12 +399,14 @@ Cada mudança que fizer, teste no navegador. Não espere terminar tudo para test
 ### 3. **Use o Console (F12)**
 Quando algo não funcionar, abra o Console (F12) para ver os erros. Ele te dirá o que está errado.
 
-### 4. **Commit Frequentemente** (se usar Git)
+### 4. **Commit e Push Frequentemente**
+Salve seu progresso regularmente no GitHub:
 ```bash
 git add .
 git commit -m "Adiciona seção de produtos"
-git push
+git push origin main
 ```
+**Lembre-se:** O professor verá suas alterações através do seu fork!
 
 ### 5. **Não Tenha Medo de Errar**
 Erros fazem parte do aprendizado! Sempre dá para desfazer e tentar de novo.

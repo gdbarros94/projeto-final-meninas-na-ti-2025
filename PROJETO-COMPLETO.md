@@ -159,20 +159,23 @@ Cada tema possui:
 ## 🎯 Como Usar Este Repositório
 
 ### Para Professoras/Instrutoras:
-1. Clone o repositório
+1. Oriente as alunas a fazerem um **fork** do repositório
 2. Apresente os 10 temas para as alunas escolherem
 3. Oriente-as a copiar o template-base para o tema escolhido
 4. Acompanhe usando o checklist de entrega do README.md
+5. Avalie os trabalhos acessando os forks criados pelas alunas no GitHub
 
 ### Para Alunas:
-1. Clone o repositório
-2. Escolha um tema na pasta `/temas/`
-3. Leia os arquivos `layout.md` e `instrucoes.md` do tema
-4. Copie os arquivos do `template-base` para a pasta do tema
-5. Personalize conforme as instruções
-6. Adicione imagens na pasta `assets/images/`
-7. Teste no navegador
-8. Siga o checklist de entrega
+1. **Faça um fork** do repositório no GitHub
+2. Clone **seu fork** para seu computador
+3. Escolha um tema na pasta `/temas/`
+4. Leia os arquivos `layout.md` e `instrucoes.md` do tema
+5. Copie os arquivos do `template-base` para a pasta do tema
+6. Personalize conforme as instruções
+7. Adicione imagens na pasta `assets/images/`
+8. Teste no navegador
+9. Faça commit e push das suas alterações
+10. Siga o checklist de entrega
 
 ---
 
