@@ -65,7 +65,7 @@ Este arquivo já contém 8 peças de roupa como exemplo. Você pode:
 
 ### 3. `style.css`
 **Personalização de cores:**
-- **Linhas 22-23:** Altere o gradiente do header
+- **Linhas 24-25:** Altere o gradiente do header
   ```css
   background: linear-gradient(135deg, #FFB6C1 0%, #9B59B6 100%);
   ```
@@ -154,7 +154,7 @@ O formulário já está incluído na seção de contato (linhas 64-85 do `index.
 ## ✨ Onde Inserir as Animações
 
 ### Animação CSS (Hover nos Cards)
-Já está implementada no `style.css` (linhas 90-97).
+Já está implementada no `style.css` (linhas 112-115).
 
 **Como funciona:**
 Quando você passa o mouse sobre um card de produto, ele:

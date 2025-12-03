@@ -80,7 +80,7 @@ Visite [Google Fonts](https://fonts.google.com/) e escolha outras fontes se pref
 
 ### ✨ **Animação CSS: Fade In**
 
-Localizada no `style.css` (linhas 73-84), ela faz elementos aparecerem suavemente:
+Localizada no `style.css` (linhas 88-101), ela faz elementos aparecerem suavemente:
 
 ```css
 .fade-in {
@@ -92,7 +92,7 @@ Localizada no `style.css` (linhas 73-84), ela faz elementos aparecerem suavement
 
 ### ✨ **Animação CSS: Hover nos Cards**
 
-Localizada no `style.css` (linhas 90-92), faz os cards subirem ao passar o mouse:
+Localizada no `style.css` (linhas 112-115), faz os cards subirem ao passar o mouse:
 
 ```css
 .produto-card:hover {
@@ -105,7 +105,7 @@ Localizada no `style.css` (linhas 90-92), faz os cards subirem ao passar o mouse
 
 ### ✨ **Animação JavaScript: Scroll Reveal**
 
-Localizada no `script.js` (linhas 45-59), faz elementos aparecerem ao rolar a página:
+Localizada no `script.js` (linhas 58-74), faz elementos aparecerem ao rolar a página:
 
 ```javascript
 function ativarAnimacoesScroll() {
