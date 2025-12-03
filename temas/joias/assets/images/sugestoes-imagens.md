@@ -119,11 +119,11 @@ Clique no link acima para buscar imagens gratuitas relacionadas ao tema "Joalher
 
 Se não encontrar o que procura nos links acima, experimente:
 
-- **Freepik:** https://www.freepik.com
-- **Burst (Shopify):** https://burst.shopify.com
 - **Reshot:** https://www.reshot.com
 - **StockSnap:** https://stocksnap.io
 - **Picjumbo:** https://picjumbo.com
+- **Gratisography:** https://gratisography.com
+- **Kaboompics:** https://kaboompics.com
 
 ## ⚠️ Importante
 
