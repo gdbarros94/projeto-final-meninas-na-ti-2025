@@ -1,0 +1,137 @@
+# 📸 Sugestões de Imagens
+
+## Imagens Sugeridas para o tema "Biblioteca/Livros"
+
+Abaixo estão algumas sugestões de imagens de alta qualidade de bancos de imagens gratuitos.
+Você pode baixar estas imagens ou buscar outras similares usando as palavras-chave relacionadas ao tema.
+
+**Palavra-chave principal:** `books`
+
+---
+
+### 1. Unsplash
+
+[![Unsplash](https://img.shields.io/badge/Unsplash-Buscar%20Imagens-blue)](https://unsplash.com/s/photos/books)
+
+**🔍 Link de Busca:** [Unsplash - Buscar "books"](https://unsplash.com/s/photos/books)
+
+Clique no link acima para buscar imagens gratuitas relacionadas ao tema "Biblioteca/Livros".
+
+**Sobre o Unsplash:**
+- 📸 Milhares de imagens gratuitas de alta qualidade
+- ✅ Uso gratuito para projetos pessoais e comerciais
+- 📝 Atribuição ao fotógrafo é apreciada (mas nem sempre obrigatória)
+- 🌟 Imagens em alta resolução disponíveis
+
+**Fonte:** [Unsplash](https://unsplash.com)
+
+---
+
+### 2. Pexels
+
+[![Pexels](https://img.shields.io/badge/Pexels-Buscar%20Imagens-blue)](https://www.pexels.com/search/books/)
+
+**🔍 Link de Busca:** [Pexels - Buscar "books"](https://www.pexels.com/search/books/)
+
+Clique no link acima para buscar imagens gratuitas relacionadas ao tema "Biblioteca/Livros".
+
+**Sobre o Pexels:**
+- 📸 Milhares de imagens gratuitas de alta qualidade
+- ✅ Uso gratuito para projetos pessoais e comerciais
+- 📝 Atribuição ao fotógrafo é apreciada (mas nem sempre obrigatória)
+- 🌟 Imagens em alta resolução disponíveis
+
+**Fonte:** [Pexels](https://www.pexels.com)
+
+---
+
+### 3. Pixabay
+
+[![Pixabay](https://img.shields.io/badge/Pixabay-Buscar%20Imagens-blue)](https://pixabay.com/images/search/books/)
+
+**🔍 Link de Busca:** [Pixabay - Buscar "books"](https://pixabay.com/images/search/books/)
+
+Clique no link acima para buscar imagens gratuitas relacionadas ao tema "Biblioteca/Livros".
+
+**Sobre o Pixabay:**
+- 📸 Milhares de imagens gratuitas de alta qualidade
+- ✅ Uso gratuito para projetos pessoais e comerciais
+- 📝 Atribuição ao fotógrafo é apreciada (mas nem sempre obrigatória)
+- 🌟 Imagens em alta resolução disponíveis
+
+**Fonte:** [Pixabay](https://pixabay.com)
+
+---
+
+### 4. Freepik
+
+[![Freepik](https://img.shields.io/badge/Freepik-Buscar%20Imagens-blue)](https://www.freepik.com/search?format=search&query=books)
+
+**🔍 Link de Busca:** [Freepik - Buscar "books"](https://www.freepik.com/search?format=search&query=books)
+
+Clique no link acima para buscar imagens gratuitas relacionadas ao tema "Biblioteca/Livros".
+
+**Sobre o Freepik:**
+- 📸 Milhares de imagens gratuitas de alta qualidade
+- ✅ Uso gratuito para projetos pessoais e comerciais
+- 📝 Atribuição ao fotógrafo é apreciada (mas nem sempre obrigatória)
+- 🌟 Imagens em alta resolução disponíveis
+
+**Fonte:** [Freepik](https://www.freepik.com)
+
+---
+
+### 5. Burst by Shopify
+
+[![Burst by Shopify](https://img.shields.io/badge/Burst by Shopify-Buscar%20Imagens-blue)](https://burst.shopify.com/photos/search?q=books)
+
+**🔍 Link de Busca:** [Burst by Shopify - Buscar "books"](https://burst.shopify.com/photos/search?q=books)
+
+Clique no link acima para buscar imagens gratuitas relacionadas ao tema "Biblioteca/Livros".
+
+**Sobre o Burst by Shopify:**
+- 📸 Milhares de imagens gratuitas de alta qualidade
+- ✅ Uso gratuito para projetos pessoais e comerciais
+- 📝 Atribuição ao fotógrafo é apreciada (mas nem sempre obrigatória)
+- 🌟 Imagens em alta resolução disponíveis
+
+**Fonte:** [Burst by Shopify](https://burst.shopify.com)
+
+---
+
+## 📝 Como Usar
+
+1. **Acesse os links acima** e pesquise pelas palavras-chave sugeridas
+2. **Baixe as imagens** que mais combinam com seu projeto
+3. **Salve as imagens** na pasta `assets/images/` com nomes descritivos
+4. **Atualize o arquivo `data.json`** com os nomes corretos das imagens
+5. **Verifique a licença** de cada imagem (geralmente é permitido uso gratuito com atribuição)
+
+## 🎨 Dicas de Seleção
+
+- Mantenha **consistência visual** entre todas as imagens
+- Prefira **fotos reais** de alta qualidade
+- Use imagens com **boa iluminação** e **nitidez**
+- Evite imagens com **marcas d'água** muito visíveis
+- Considere o **esquema de cores** do seu projeto
+
+## 🔗 Outros Bancos de Imagens Gratuitos
+
+Se não encontrar o que procura nos links acima, experimente:
+
+- **Freepik:** https://www.freepik.com
+- **Burst (Shopify):** https://burst.shopify.com
+- **Reshot:** https://www.reshot.com
+- **StockSnap:** https://stocksnap.io
+- **Picjumbo:** https://picjumbo.com
+
+## ⚠️ Importante
+
+Sempre verifique os **termos de uso** de cada imagem. A maioria dos bancos gratuitos permite uso comercial, mas alguns requerem:
+- Atribuição ao fotógrafo
+- Proibição de revenda
+- Limitações de uso
+
+---
+
+**Última atualização:** 03/12/2025
